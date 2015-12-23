@@ -44,7 +44,7 @@
     
     UIBezierPath *path = [UIBezierPath bezierPath];
     [[UIColor redColor] setStroke];
-    path.lineWidth = 8.0;
+    path.lineWidth = 3.0;
     path.lineCapStyle = kCGLineCapSquare;
     
     CGPoint pointForUpper = CGPointZero;
